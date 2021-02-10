@@ -7,3 +7,8 @@ winning condition *W*. ie.
 *E = { x | W(x, s(x)) = 0 }*
 
 The project is hosted locally as a jupyter file.
+
+## How to run the project
+```bash
+pipenv run jupyter notebook
+```
